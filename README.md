@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Imagem de boas-vindas -->
-  <img src="assets/welcome.gif" alt="Welcome Image" width="100vh" />
+  <img src="assets/readme.gif" alt="Welcome Image" width="100vh" />
 </div>
 
 ## 🚀 Sobre Mim

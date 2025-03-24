@@ -1,10 +1,3 @@
-<!-- Snake Game -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: white)" srcset="dist/github-snake.svg" />
-  <img alt="Snake animation" src="dist/github-snake.svg" />
-</picture>
-
 # 🌸 Bem-vindo ao meu GitHub! 🌸
 
 <div align="center">

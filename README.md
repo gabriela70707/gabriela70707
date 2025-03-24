@@ -1,5 +1,9 @@
 <!-- Snake Game -->
-![Snake animation](https://github.com/SeuUsuario/SeuRepositorio/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="Snake animation" src="dist/github-snake.svg" />
+</picture>
 
 # 🌸 Bem-vindo ao meu GitHub! 🌸
 
@@ -43,7 +47,11 @@ Aqui estão algumas das tecnologias que amo trabalhar:
 ## 🌟 Destaque!
 ### 🐍 Jogo da Cobrinha dos Commits  
 Aqui está um jogo da cobrinha divertido que reflete seus commits! Mantenha sua atividade consistente para alimentar a cobrinha 🐍:  
-![Snake animation](https://github.com/SeuUsuario/SeuRepositorio/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
+  <img alt="Snake animation" src="dist/github-snake.svg" />
+</picture>
 
 ---
 

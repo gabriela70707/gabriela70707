@@ -1,29 +1,17 @@
 # 🌸 Bem-vindo ao meu GitHub! 🌸
 
 <div align="center">
-  <img src="https://via.placeholder.com/200x200/FFC0CB/000000?text=Olá!" alt="Welcome Image" />
+  <!-- Imagem de boas-vindas -->
+  <img src="assets/welcome-image.png" alt="Welcome Image" width="200" />
 </div>
 
 ## 🚀 Sobre Mim
 
 <div align="center">
+  <!-- Animação do seu nome -->
   <h2>
     <span style="font-family: 'Courier New', monospace; font-size: 1.5em; color: #FF69B4;">
-      <svg width="500" height="100" xmlns="http://www.w3.org/2000/svg">
-      <text x="10" y="50" font-size="24" fill="pink" font-family="Arial, sans-serif">
-      <tspan fill="#FF69B4">Hi, my name is </tspan>
-      <tspan fill="#FF99CC">Gabriela Alejandra</tspan>
-  </text>
-  <animate
-    xlink:href="#path"
-    attributeName="stroke-dashoffset"
-    begin="0s"
-    dur="3s"
-    fill="freeze"
-  />
-</svg>
-
-      <span class="cursor" style="color: #FF69B4;">|</span>
+      Hi, my name is Gabriela Alejandra
     </span>
   </h2>
 </div>
@@ -52,7 +40,8 @@ Aqui estão algumas das tecnologias que amo trabalhar:
 
 ## 🌟 Destaque!
 ### 🐍 Jogo da Cobrinha dos Commits  
-Aqui está um jogo da cobrinha divertido que reflete seus commits! Mantenha sua atividade consistente para alimentar a cobrinha 🐍:  
+Aqui está um jogo da cobrinha divertido que reflete seus commits! Mantenha sua atividade consistente para alimentar a cobrinha 🐍:
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />

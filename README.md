@@ -41,7 +41,7 @@ Aqui estão algumas das tecnologias que amo trabalhar:
 
 ## 🌟 Destaque!
 ### 🐍 Jogo da Cobrinha dos Commits  
-Aqui está um jogo da cobrinha divertido que reflete seus commits! Mantenha sua atividade consistente para alimentar a cobrinha 🐍:
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />

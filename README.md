@@ -11,7 +11,10 @@
   <!-- Animação do seu nome -->
   <h2>
     <span style="font-family: 'Courier New', monospace; font-size: 1.5em; color: #FF69B4;">
-      Hi, my name is Gabriela Alejandra
+    <div align="center">
+        <img src="assets/name.gif" alt="Typing Animation" />
+    </div>
+
     </span>
   </h2>
 </div>

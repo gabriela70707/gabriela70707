@@ -67,9 +67,10 @@ Aqui estão algumas das tecnologias que amo trabalhar:
 
 ## 📞 Contato
 Me encontre nas redes:  
+<div>
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%23FFC0CB)](https://www.linkedin.com/in/gabriela-alejandra-278b39355)  
 [![Email](https://img.shields.io/badge/-Email-%23FF99CC)](mailto:gabrielasantos70707@gmail.com)
-
+</div>
 
 
 🌸 **Obrigada por visitar meu perfil!** 🌸

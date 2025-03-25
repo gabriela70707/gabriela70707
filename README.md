@@ -14,9 +14,15 @@
     <div align="center">
         <img src="assets/name.gif" alt="Typing Animation" />
     </div>
-      🚀 Desenvolvedora apaixonada por tecnologia e criatividade! Busco transformar ideias em realidade, transformar a vida das pessoas ao meu redor através da tecnologia, explorando linguagens, frameworks e           design. Amo estudar e compartilhar conhecimento e ter oportunidade de contribuir com projetos inovadores.
+     
+  </h2>
+</div>
 
-  🎓 Formação Acadêmica
+   🚀 Desenvolvedora apaixonada por tecnologia e criatividade! Busco transformar ideias em realidade, transformar a vida das pessoas ao meu redor através da tecnologia, explorando linguagens, frameworks e           design. Amo estudar e compartilhar conhecimento e ter oportunidade de contribuir com projetos inovadores.
+
+
+
+  🎓 Formação Acadêmica: 
 
   Estudante de Sistema de Informação - UNASP - 3/8 🤩
 
@@ -24,8 +30,6 @@
 
   Estudante do Curso Tecnico de Desenvolvimento de Sistemas - SENAI - 2/3 🤓
  
-  </h2>
-</div>
 
 ---
 

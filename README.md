@@ -29,35 +29,28 @@
   Certificação Técnica em Analise e Desenvolvimento de Sistema - ETEC Hortolândia 😎
 
   Estudante do Curso Tecnico de Desenvolvimento de Sistemas - SENAI - 2/3 🤓
- 
+
 ---
 
 ## 💻 Tecnologias que Utilizo
 Aqui estão algumas das tecnologias que amo trabalhar:
 
-- **Linguagens:**  
-  <img src="https://img.shields.io/badge/-Java-%23FF9999" alt="Java" height="30px" />  
-  <img src="https://img.shields.io/badge/-C-%23FF99CC" alt="C" height="30px" />  
-  <img src="assets/js.webp" alt="JavaScript" height="50px" />  
-
-- **Web:**  
-  <img src="assets/html.png" alt="HTML" height="50px" />  
-  <img src="assets/css.png" alt="CSS" height="50px" />  
-  <img src="assets/react.png" alt="CSS" height="50px" />  
-
-- **Design:**  
-  <img src="https://img.shields.io/badge/-Figma-%23FF007F" alt="Figma" height="30px" />  
-
-- **Back-End:**  
-  <img src="https://img.shields.io/badge/-Python-%23FFC0CB" alt="Python" height="30px" />  
-  <img src="https://img.shields.io/badge/-FastAPI-%23FF66CC" alt="FastAPI" height="30px" />  
-  <img src="https://img.shields.io/badge/-Django-%23FF99CC" alt="Django" height="30px" />  
-
-- **Banco de Dados:**  
-  <img src="https://img.shields.io/badge/-MySQL-%23FFB6C1" alt="MySQL" height="30px" />  
-
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <img src="https://img.shields.io/badge/-Java-%23FF9999" alt="Java" height="60px" />
+  <img src="https://img.shields.io/badge/-C-%23FF99CC" alt="C" height="60px" />
+  <img src="assets/js.webp" alt="JavaScript" height="60px" />
+  <img src="assets/html.png" alt="HTML" height="60px" />
+  <img src="assets/css.png" alt="CSS" height="60px" />
+  <img src="assets/react.png" alt="React" height="60px" />
+  <img src="assets/figma.png" alt="Figma" height="60px" />
+  <img src="https://img.shields.io/badge/-Python-%23FFC0CB" alt="Python" height="60px" />
+  <img src="https://img.shields.io/badge/-FastAPI-%23FF66CC" alt="FastAPI" height="60px" />
+  <img src="https://img.shields.io/badge/-Django-%23FF99CC" alt="Django" height="60px" />
+  <img src="https://img.shields.io/badge/-MySQL-%23FFB6C1" alt="MySQL" height="60px" />
+</div>
 
 ---
+
 ## 🌟 Destaque!
 ### 🐍 Jogo da Cobrinha dos Commits  
 

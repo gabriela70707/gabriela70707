@@ -36,14 +36,14 @@
 Aqui estão algumas das tecnologias que amo trabalhar:
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
-  <img src="https://img.shields.io/badge/-Java-%23FF9999" alt="Java" height="60px" />
+  <img src="assets/java.png" alt="Java" height="60px" />
   <img src="https://img.shields.io/badge/-C-%23FF99CC" alt="C" height="60px" />
   <img src="assets/js.webp" alt="JavaScript" height="60px" />
   <img src="assets/html.png" alt="HTML" height="60px" />
   <img src="assets/css.png" alt="CSS" height="60px" />
   <img src="assets/react.png" alt="React" height="60px" />
   <img src="assets/figma.png" alt="Figma" height="60px" />
-  <img src="https://img.shields.io/badge/-Python-%23FFC0CB" alt="Python" height="60px" />
+  <img src="assets/python.png" alt="Python" height="60px" />
   <img src="https://img.shields.io/badge/-FastAPI-%23FF66CC" alt="FastAPI" height="60px" />
   <img src="https://img.shields.io/badge/-Django-%23FF99CC" alt="Django" height="60px" />
   <img src="https://img.shields.io/badge/-MySQL-%23FFB6C1" alt="MySQL" height="60px" />

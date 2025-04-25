@@ -30,29 +30,33 @@
 
   Estudante do Curso Tecnico de Desenvolvimento de Sistemas - SENAI - 2/3 🤓
  
-
 ---
 
 ## 💻 Tecnologias que Utilizo
 Aqui estão algumas das tecnologias que amo trabalhar:
+
 - **Linguagens:**  
-  ![Java](https://img.shields.io/badge/-Java-%23FF9999) 
-  ![C](https://img.shields.io/badge/-C-%23FF99CC) 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-%23FFB6C1)
+  <img src="https://img.shields.io/badge/-Java-%23FF9999" alt="Java" height="30px" />  
+  <img src="https://img.shields.io/badge/-C-%23FF99CC" alt="C" height="30px" />  
+  <img src="https://img.shields.io/badge/-JavaScript-%23FFB6C1" alt="JavaScript" height="30px" />  
+
 - **Web:**  
-  <img src="assets/html.png" alt="Typing Animation" />
-  ![CSS](https://img.shields.io/badge/-CSS-%23FF69B4)
+  <img src="assets/html.png" alt="HTML" height="30px" />  
+  <img src="https://img.shields.io/badge/-CSS-%23FF69B4" alt="CSS" height="30px" />  
+
 - **Design:**  
-  ![Figma](https://img.shields.io/badge/-Figma-%23FF007F)
+  <img src="https://img.shields.io/badge/-Figma-%23FF007F" alt="Figma" height="30px" />  
+
 - **Back-End:**  
-  ![Python](https://img.shields.io/badge/-Python-%23FFC0CB) 
-  ![FastAPI](https://img.shields.io/badge/-FastAPI-%23FF66CC) 
-  ![Django](https://img.shields.io/badge/-Django-%23FF99CC)
+  <img src="https://img.shields.io/badge/-Python-%23FFC0CB" alt="Python" height="30px" />  
+  <img src="https://img.shields.io/badge/-FastAPI-%23FF66CC" alt="FastAPI" height="30px" />  
+  <img src="https://img.shields.io/badge/-Django-%23FF99CC" alt="Django" height="30px" />  
+
 - **Banco de Dados:**  
-  ![MySQL](https://img.shields.io/badge/-MySQL-%23FFB6C1)
+  <img src="https://img.shields.io/badge/-MySQL-%23FFB6C1" alt="MySQL" height="30px" />  
+
 
 ---
-
 ## 🌟 Destaque!
 ### 🐍 Jogo da Cobrinha dos Commits  
 

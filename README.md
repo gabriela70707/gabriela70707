@@ -44,8 +44,8 @@ Aqui estão algumas das tecnologias que amo trabalhar:
   <img src="assets/react.png" alt="React" height="60px" />
   <img src="assets/figma.png" alt="Figma" height="60px" />
   <img src="assets/python.png" alt="Python" height="60px" />
-  <img src="https://img.shields.io/badge/-FastAPI-%23FF66CC" alt="FastAPI" height="60px" />
-  <img src="https://img.shields.io/badge/-Django-%23FF99CC" alt="Django" height="60px" />
+  <img src="assets/fastapi.png" alt="FastAPI" height="60px" />
+  <img src="assets/django.png" alt="Django" height="60px" />
   <img src="https://img.shields.io/badge/-MySQL-%23FFB6C1" alt="MySQL" height="60px" />
 </div>
 

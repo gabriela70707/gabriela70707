@@ -35,7 +35,7 @@
 ## 💻 Tecnologias que Utilizo
 Aqui estão algumas das tecnologias que amo trabalhar:
 
-<div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 50px; align-items: center;">
   <img src="assets/html.png" alt="HTML" height="60px" />
   <img src="assets/css.png" alt="CSS" height="60px" />
   <img src="assets/js.webp" alt="JavaScript" height="60px" />

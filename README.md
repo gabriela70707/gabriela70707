@@ -38,11 +38,11 @@ Aqui estão algumas das tecnologias que amo trabalhar:
 - **Linguagens:**  
   <img src="https://img.shields.io/badge/-Java-%23FF9999" alt="Java" height="30px" />  
   <img src="https://img.shields.io/badge/-C-%23FF99CC" alt="C" height="30px" />  
-  <img src="https://img.shields.io/badge/-JavaScript-%23FFB6C1" alt="JavaScript" height="30px" />  
+  <img src="assets/js.webp" alt="JavaScript" height="30px" />  
 
 - **Web:**  
   <img src="assets/html.png" alt="HTML" height="30px" />  
-  <img src="https://img.shields.io/badge/-CSS-%23FF69B4" alt="CSS" height="30px" />  
+  <img src="assets/css.png" alt="CSS" height="30px" />  
 
 - **Design:**  
   <img src="https://img.shields.io/badge/-Figma-%23FF007F" alt="Figma" height="30px" />  

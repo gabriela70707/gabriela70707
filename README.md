@@ -40,7 +40,7 @@ Aqui estão algumas das tecnologias que amo trabalhar:
   ![C](https://img.shields.io/badge/-C-%23FF99CC) 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-%23FFB6C1)
 - **Web:**  
-  ![HTML]([https://img.shields.io/badge/-HTML-%23FFD1DC](https://e7.pngegg.com/pngimages/780/934/png-clipart-html-logo-html5-logo-icons-logos-emojis-tech-companies-thumbnail.png)) 
+  ![HTML](https://e7.pngegg.com/pngimages/780/934/png-clipart-html-logo-html5-logo-icons-logos-emojis-tech-companies-thumbnail.png) 
   ![CSS](https://img.shields.io/badge/-CSS-%23FF69B4)
 - **Design:**  
   ![Figma](https://img.shields.io/badge/-Figma-%23FF007F)

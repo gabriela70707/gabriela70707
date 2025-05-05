@@ -40,6 +40,7 @@ Aqui estão algumas das tecnologias que amo trabalhar:
   <img src="assets/css.png" alt="CSS" height="60px" />
   <img src="assets/js.webp" alt="JavaScript" height="60px" />
   <img src="assets/react.png" alt="React" height="60px" />
+  <img src="assets/react-native.png" alt="React" height="60px" />
   <img src="assets/sass.png" alt="Sass" height="60px" />
   <img src="assets/java.png" alt="Java" height="60px" />
   <img src="assets/python.png" alt="Python" height="60px" />

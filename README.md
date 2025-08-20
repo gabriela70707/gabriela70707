@@ -18,17 +18,17 @@
   </h2>
 </div>
 
-   🚀 Desenvolvedora apaixonada por tecnologia e criatividade! Busco transformar ideias em realidade, transformar a vida das pessoas ao meu redor através da tecnologia, explorando linguagens, frameworks e           design. Amo estudar e compartilhar conhecimento e ter oportunidade de contribuir com projetos inovadores.
+   🚀 Desenvolvedora apaixonada por tecnologia e criatividade! Busco transformar ideias em realidade, transformar a vida das pessoas ao meu redor através da tecnologia, explorando linguagens, frameworks e design. Amo estudar e compartilhar conhecimento e ter oportunidade de contribuir com projetos inovadores.
 
 
 
   🎓 Formação Acadêmica: 
 
-  Estudante de Sistema de Informação - UNASP - 3/8 🤩
+  Estudante de Sistema de Informação - UNASP - 4/8 🤩
 
   Certificação Técnica em Analise e Desenvolvimento de Sistema - ETEC Hortolândia 😎
 
-  Estudante do Curso Tecnico de Desenvolvimento de Sistemas - SENAI - 2/3 🤓
+  Estudante do Curso Tecnico de Desenvolvimento de Sistemas - SENAI - 3/3 🤓
 
 ---
 

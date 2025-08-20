@@ -49,7 +49,6 @@ Aqui estão algumas das tecnologias que amo trabalhar:
   <img src="assets/fastapi.png" alt="FastAPI" height="60px" />
   <img src="assets/django.png" alt="Django" height="50px" />
   <img src="assets/figma.png" alt="Figma" height="60px" />
-  <img src="assets/flutter.png" alt="Flutter" height="60px" />
 </div>
 
 ---

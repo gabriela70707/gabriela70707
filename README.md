@@ -24,11 +24,11 @@
 
   🎓 Formação Acadêmica: 
 
-  Estudante de Sistema de Informação - UNASP - 4/8 🤩
+  Estudante de Sistema de Informação - UNASP - 5/8 🤩
 
   Certificação Técnica em Analise e Desenvolvimento de Sistema - ETEC Hortolândia 😎
 
-  Estudante do Curso Tecnico de Desenvolvimento de Sistemas - SENAI - 3/3 🤓
+  Certificação Técnica em Desenvolvimento de Sistemas - SENAI 🤓
 
 ---
 
